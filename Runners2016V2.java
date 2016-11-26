@@ -1,8 +1,8 @@
-package runners2016v;
+package runners2016v2;
 
 import java.util.Scanner;
 
-public class Runners2016V {
+public class Runners2016V2 {
 
     private static final int NUM_SOCIOS = 100;
     private static final int NUM_PROVAS = 5;
